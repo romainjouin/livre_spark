@@ -2,4 +2,7 @@
 .DS_Store
 .ipynb_checkpoints/*
 ./formation_python/*
+./formation_python/*
+/formation_python/*
+*/formation_python/*
 __pycache__
