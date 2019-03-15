@@ -1,2 +1,4 @@
 *.pptx
-/formation_python/*
+.ipynb_checkpoints/*
+formation_python/*
+__pycache__
