@@ -2,4 +2,4 @@
 romain.jouin@gmail.com
 
 # Erreurs déjà détectées : 
-Le numéro de port pour accèder au notebook contient un zéro de trop : 10000 au lieu de 1000 (merci Bruno S. ;)
+p104 en bas il faut ouvrir localhost:10000 => il manque un zéro sur la page (par contre on le voit bien dans la capture d'écran p105 ;)
