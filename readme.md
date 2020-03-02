@@ -4,7 +4,7 @@ romain.jouin@gmail.com
 # Errata : 
 p104 en bas il faut ouvrir localhost:10000 => il manque un zéro sur la page (par contre on le voit bien dans la capture d'écran p105 ;) merci Bruno S. !
 
-## Dans Simulation_velib
+### Dans Simulation_velib
 1) Si on a trop de cyclistes: limiter à 256 pour palette color
 unique_id_cycliste=unique_id_cycliste[:255]
 
@@ -22,7 +22,7 @@ fichiers_gain = [fichier for fichier in os.listdir(log_dir) if
 fichier.startswith('recupere_velo_log_stations')]
 
 
-## Dans exemple_1_python_classification_adult_with_feature_importances
+### Dans exemple_1_python_classification_adult_with_feature_importances
 
 
 Remarque : dans les features importances on se retrouve avec id, c’est dans les colonnes à enlever :-)
